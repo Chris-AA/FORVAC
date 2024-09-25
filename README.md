@@ -1,4 +1,4 @@
-# FORVAC
+# Assessing the effectiveness of Village Land Forest Reserves in reducing deforestation for the Forestry and Value Chains Programme
 Work related to professional placement with the Forestry and Value Chains Programme (FORVAC), Ministry of Natural Resources and Tourism, Tanzania.
 
 Here, I performed "statistical matching" to analyse how effective the Village Land Forest Reserves run by FORVAC were compared to counterfactual sites.
